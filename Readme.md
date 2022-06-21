@@ -7,4 +7,4 @@
 
 
 ##### GET IMAGE
-[GET] => file_path => return url image
+[GET] => file_path => you got the image
